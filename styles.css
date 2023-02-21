@@ -1,0 +1,54 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    overflow-x: hidden;
+}
+a {
+    color: #14274e;
+}
+
+@media screen and (max-width: 400px) {
+    .heroimg {
+        width: 253.72px;
+        height: 280.7px;
+    }
+    
+    /* h1 {
+        font-size: 60px;
+    }
+    h2 {
+        font-size: 30px;
+    } */
+
+    .dots {
+        width: 100px;
+    }
+    .aboutimg {
+        width: 257px;
+    }
+}
+
+@media screen and (max-width: 1554px) {
+    .heroimg {
+        width: 253.72px;
+        height: 280.7px;
+        margin-top: 15px;
+    }
+
+    .home {
+        margin-top: 70px;
+    }
+    .home-a {
+        margin-left: 45px;
+    }
+    /* #home h1 {
+        font-size: 100px;
+    } */
+}
+
+/* h1 {
+    font-size: 100px;
+}
+
+h2 {
+    font-size: 50px;
+} */
